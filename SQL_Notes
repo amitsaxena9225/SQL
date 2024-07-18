@@ -1,0 +1,10 @@
+
+SubQueries:
+
+A Subquery or inner query or a nested query allows us to create complex query on the output of another query.
+
+Subquery syntax invloves two select statements.
+
+Synatx : select column_names FROM tablebname where column_name operator (Select column_name FROM tablename where condition)
+         
+ 
